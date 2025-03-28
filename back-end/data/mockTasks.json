@@ -1,0 +1,55 @@
+{
+    "taskListName": "Sample Task List",
+    "tasks": [
+        {
+            "id": "843892lyl-he29-0836-9586c0t441d9",
+            "name": "Task 1",
+            "type": "rectangle"
+        },
+        {
+            "id": "666647ncm-qi00-7635-4163h0y424f1",
+            "name": "Task 2",
+            "type": "circle"
+        },
+        {
+            "id": "95978hkp-gd74-2312-5810x1o133x2",
+            "name": "Task 3",
+            "type": "polygon"
+        },
+        {
+            "id": "024524sjo-zs65-5704-8085c3j758j1",
+            "name": "Task 4",
+            "type": "circle"
+        },
+        {
+            "id": "625121fhs-kj64-4067-2153p1r362b0",
+            "name": "Task 5",
+            "type": "polygon"
+        },
+        {
+            "id": "52688gej-he33-3584-2823u7u684e5",
+            "name": "Task 6",
+            "type": "polygon"
+        },
+        {
+            "id": "15766yyr-ci12-3535-4666v3o477s1",
+            "name": "Task 7",
+            "type": "circle"
+        },
+        {
+            "id": "840751pgf-sw56-9568-1097h8a625o5",
+            "name": "Task 8",
+            "type": "polygon"
+        },
+        {
+            "id": "47560dps-pm23-1892-3664f5w873s5",
+            "name": "Task 9",
+            "type": "circle"
+        },
+        {
+            "id": "82883qjl-fj51-7162-6265v5q352x1",
+            "name": "Task 10",
+            "type": "polygon"
+        }
+    ]
+}
