@@ -6,8 +6,6 @@ import React, {
 } from "react";
 import { Task, TaskInfo } from "../interfaces/interfaces";
 
-
-
 interface TaskContextType {
   error: Error | null;
   loading: boolean;

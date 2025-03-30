@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 const tasks = JSON.parse(
-    fs.readFileSync(path.resolve(__dirname, '../data/tasks.json'), 'utf8')
+    fs.readFileSync(path.resolve(__dirname, '../data/mockTasks.json'), 'utf8')
 );
 
 const getTasks = (req, res, next) => {
