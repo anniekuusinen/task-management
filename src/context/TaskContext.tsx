@@ -4,16 +4,7 @@ import React, {
   ReactNode,
   useState,
 } from "react";
-import { Task, TaskInfo } from "../interfaces/interfaces";
-
-interface TaskContextType {
-  error: Error | null;
-  loading: boolean;
-  incompletedTasks: TaskInfo | null;
-  completedTasks: Task[];
-  fetchTasks: () => void;
-  markTaskAsCompleted: (taskId: string) => void;
-}
+import { Task, TaskContextType, TaskInfo } from "../interfaces/interfaces";
 
 const TaskContext = createContext<TaskContextType | undefined>(undefined);
 
